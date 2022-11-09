@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "rQ9G9XFoARUIJjAz2SSrfMn6PHE4mmvdxkuTECf0zODtNzlwb7aJgV3/26AH6sSCPXcpSdR2msgSM/gg7nvqtQ==",
+  "success": true,
+  "projectFilePath": "/Users/timothelariviere/Git/GitHub/Operture/Server/Operture.Api/Operture.Api/Operture.Api.fsproj",
+  "expectedPackageFiles": [
+    "/Users/timothelariviere/.nuget/packages/fsharp.core/7.0.0-beta.22473.1/fsharp.core.7.0.0-beta.22473.1.nupkg.sha512",
+    "/Users/timothelariviere/.nuget/packages/microsoft.aspnetcore.authentication.openidconnect/7.0.0-rc.2.22476.2/microsoft.aspnetcore.authentication.openidconnect.7.0.0-rc.2.22476.2.nupkg.sha512",
+    "/Users/timothelariviere/.nuget/packages/microsoft.csharp/4.5.0/microsoft.csharp.4.5.0.nupkg.sha512",
+    "/Users/timothelariviere/.nuget/packages/microsoft.identitymodel.jsonwebtokens/6.15.1/microsoft.identitymodel.jsonwebtokens.6.15.1.nupkg.sha512",
+    "/Users/timothelariviere/.nuget/packages/microsoft.identitymodel.logging/6.15.1/microsoft.identitymodel.logging.6.15.1.nupkg.sha512",
+    "/Users/timothelariviere/.nuget/packages/microsoft.identitymodel.protocols/6.15.1/microsoft.identitymodel.protocols.6.15.1.nupkg.sha512",
+    "/Users/timothelariviere/.nuget/packages/microsoft.identitymodel.protocols.openidconnect/6.15.1/microsoft.identitymodel.protocols.openidconnect.6.15.1.nupkg.sha512",
+    "/Users/timothelariviere/.nuget/packages/microsoft.identitymodel.tokens/6.15.1/microsoft.identitymodel.tokens.6.15.1.nupkg.sha512",
+    "/Users/timothelariviere/.nuget/packages/system.identitymodel.tokens.jwt/6.15.1/system.identitymodel.tokens.jwt.6.15.1.nupkg.sha512",
+    "/Users/timothelariviere/.nuget/packages/system.security.cryptography.cng/4.5.0/system.security.cryptography.cng.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

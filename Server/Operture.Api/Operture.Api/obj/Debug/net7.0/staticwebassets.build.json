@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "O+/8a3N3WKSsr4wSI3ClRz3G7eZfu7bXJRzAdb49dlQ=",
+  "Source": "Operture.Api",
+  "BasePath": "_content/Operture.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
